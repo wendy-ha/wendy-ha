@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Wendy Ha, a Data Analyst, Data Scientist and Back-end Developer.
+I'm Wendy Ha, a Data Analyst, Data Scientist and Back-end Developer. <br/>
 I am passionate about applying data science knowledge to enhance the quality of life, particularly in the fields of **healthcare** 💊 , **agriculture** 🌳  and **climate change** 🌎 .
 ## 🔭 Technologies and Tools  
 ### Acquired skills 
@@ -17,5 +17,5 @@ I am passionate about applying data science knowledge to enhance the quality of 
 - API platforms: Post man
 - Git
 ## ☕ Wanna chat?    
-💌  Contact me through [Email](mailto:wendyha.sut@gmail.com) or [Linkedin](https://www.linkedin.com/in/wendyhatuyen/).
+💌  Contact me through [Email](mailto:wendyha.sut@gmail.com) or [Linkedin](https://www.linkedin.com/in/wendyhatuyen/).<br/>
 I am also happy to discuss data science research initiatives or community activities that I can help, in addition to career prospects.
