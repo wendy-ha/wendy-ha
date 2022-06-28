@@ -11,7 +11,7 @@ I am passionate about applying data science knowledge to enhance the quality of 
 - Cloud computing platforms: Amazon Web Service
 - Project management methodologies: Waterfall, Agile, Kanban, Scrum
 ### Tools
-- IDE: VS Code, Eclipse, Intellij, Pycharm, Spider
+- IDE: VS Code, Eclipse, Intellij, Pycharm
 - Database design tools: PHP MyAdmin, MySQL Workbench
 - Data visualization softwares: Tableau, Excel
 - API platforms: Post man
