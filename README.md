@@ -9,7 +9,7 @@ I am passionate about applying data science knowledge to enhance the quality of 
 - Design Patterns: MVC, MVT
 - Database servers: MySQL, MongoDB
 - Cloud computing platforms: Amazon Web Service
-- Project management methodologies: Waterfall, Agile, Kanban, Scrum
+- Project management methodologies: Agile, Kanban, Scrum
 ### Tools
 - IDE: VS Code, Eclipse, Intellij, Pycharm
 - Database design tools: PHP MyAdmin, MySQL Workbench
