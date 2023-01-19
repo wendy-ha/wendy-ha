@@ -3,7 +3,7 @@ I'm Wendy Ha, a Software Engineering and Data Scientist. <br/>
 I am passionate about applying data science knowledge to enhance the quality of life, particularly in the fields of **healthcare** 💊, **technology** 🌳  and **climate change** 🌎
 ## 🔭 Technologies and Tools  
 ### Acquired skills 
-- Programming languages: Python, Java, Javascript - AJAX - JASON, PHP, HTML/CSS
+- Programming languages: Python, Java, Javascript (AJAX - JASON), PHP, HTML/CSS
 - Query languages: SQL, NoSQL
 - Web Frameworks: Django, Spring
 - Design Patterns: MVC, MVT
