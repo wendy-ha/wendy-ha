@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Wendy Ha, a Data Scientist and Back-end Developer. <br/>
+I'm Wendy Ha, a Software Engineering and Data Scientist. <br/>
 I am passionate about applying data science knowledge to enhance the quality of life, particularly in the fields of **healthcare** 💊, **technology** 🌳  and **climate change** 🌎
 ## 🔭 Technologies and Tools  
 ### Acquired skills 
