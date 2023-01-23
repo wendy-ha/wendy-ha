@@ -1,6 +1,6 @@
 # Hi there 👋
 I'm Wendy Ha, a Software Engineering and Data Scientist. <br/>
-I am passionate about applying data science knowledge to enhance the quality of life, particularly in the fields of **healthcare** 💊, **technology** 🌳  and **climate change** 🌎.
+I am passionate about applying data science knowledge to enhance the quality of life, particularly in the fields of **healthcare** 💊, **technology** 🌳  and **climate change** 🌎
 ## 🔭 Technologies and Tools  
 ### Acquired skills 
 - Programming languages: Python, Java, Javascript (AJAX - JASON), PHP, HTML/CSS
@@ -13,7 +13,7 @@ I am passionate about applying data science knowledge to enhance the quality of 
 ### Tools
 - IDE: VS Code, Eclipse, Intellij, Pycharm
 - Database design tools: PHP MyAdmin, MySQL Workbench
-- Data visualization softwares: Tableau
+- Data visualization softwares: Tableau, Google Data Studio
 - API platforms: Post man
 - Git
 ## ☕ Wanna chat?    
